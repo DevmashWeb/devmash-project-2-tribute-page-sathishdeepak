@@ -1,0 +1,22 @@
+#body{
+  background-color: ghostwhite;
+    display: flex;
+	width: 100%;
+    padding:auto;
+	
+	justify-content: space-around;
+
+}
+
+.image{
+	padding-right: 25%;
+	padding-left: 25%;
+	padding-top: 2%;
+	
+}
+.history{
+	padding-right: 5%;
+	padding-left: 5%;
+	padding-top: 2%;
+
+}
